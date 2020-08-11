@@ -1,5 +1,5 @@
 # Raj Kumar Dutta 👋
-### UI Developer • Javascript • ReactJs • Motivator
+### UI Developer • Core-Java •  Javascript • ReactJs • Motivator
 ## Hello!! There....
 ![react-anime](https://user-images.githubusercontent.com/58394648/89102171-2ef5e700-d424-11ea-8848-15f8848c8f34.gif)
 
