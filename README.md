@@ -8,7 +8,7 @@
 [![CodeSandbox](https://img.shields.io/badge/-CodeSandbox-222222?logo=CodeSandbox&link=(https://codesandbox.io/s/rajkumat3344))](https://codesandbox.io/s/rajkumat3344)
 
 
-Hi, I'm Raj Kumar Dutta , a passionate self-taught front-end-developer from India. Apart from programming, I enjoy eating traveling and conding.
+Hi, I'm Raj Kumar Dutta , a passionate self-taught front-end-developer as well as Java Developer from India. Apart from programming, I enjoy eating traveling and conding.
 
 
  <img src="https://media.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif" width="400">
@@ -25,7 +25,7 @@ Hi, I'm Raj Kumar Dutta , a passionate self-taught front-end-developer from Indi
             js: ["react" , "javascript", "es6"],
             css: ["sass", "jss", "js-in-css"]
           },
-          languages: ["Javascript", "Java", "Python"],
+          languages: ["Javascript", "Java"],
           databases: ["firebase-database", "MySQL"]
         },
        Machine Learning Algorithms.
