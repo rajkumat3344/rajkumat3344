@@ -5,7 +5,6 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?logo=Linkedin&link=(https://www.linkedin.com/in/raj-kumar-dutta-b8613818b/))](https://www.linkedin.com/in/raj-kumar-dutta-b8613818b/)
 
-[![CodeSandbox](https://img.shields.io/badge/-CodeSandbox-222222?logo=CodeSandbox&link=(https://codesandbox.io/s/rajkumat3344))](https://codesandbox.io/s/rajkumat3344)
 
 
 Hi, I'm Raj Kumar Dutta , a passionate self-taught front-end-developer as well as Java Developer from India. Apart from programming, I enjoy eating traveling and conding.
