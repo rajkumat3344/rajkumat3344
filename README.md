@@ -1,4 +1,4 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RajKumarDutta&theme=vue&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 # Raj Kumar Dutta 👋
 ### Software Engineer • Core-Java •  Javascript • ReactJs • Motivator
